@@ -1,5 +1,5 @@
 <div align="center" >
-  <img alt="computer" width="1000px" src="Untitled design.gif">
+  <img alt="computer" width="900px" src="Untitled design.gif">
 </div> <br><br>
 
 ![Hello!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=8D750&vCenter=true&random=false&width=700&height=80&lines=Hello+I'm+Nuy!)
