@@ -1,0 +1,24 @@
+.colums  {
+column-count: 2;
+width: 5vw;
+font-size: 3vw;
+
+}
+
+img {
+    width: 20vw;
+    float: left;
+    padding-right: 1vw;
+
+}
+
+strong {
+    font-size: 3vw;
+}
+p{
+    font-size: 1.5vw;
+}
+a {
+    font-size: 1.5vw;
+}
+
