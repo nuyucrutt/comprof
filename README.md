@@ -37,9 +37,14 @@ web about for anime lovers.
 <br><br>
 # Web View
 <div align="center" >
-<img alt="tampilan" width="200px" align="left" src="indexhtml.png" ><br>
+<img alt="tampilan" width="1000px" src="1.png" ><br><br>
+<img alt="tampilan" width="1000px" src="2.png" ><br><br>
+<img alt="tampilan" width="1000px" src="3.png" ><br><br>
+</div>
 
-<img alt="tampilan" width="200px" align="left" src="videohtml.png" ><br>
-
-<img alt="tampilan" width="200px" align="left" src="galleryhtml.png" ><br>
+# Web Deployment and Custom Domain
+<div align="center" >
+<img alt="tampilan" width="1000px" src="11.png" >
+<br><br>
+<img alt="tampilan" width="1000px" src="12.png" ><br><br>
 </div>
